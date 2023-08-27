@@ -8,7 +8,6 @@ set(SOURCES
     WinMain.cpp
     shapes.cpp
     draw.cpp
-    color.cpp
 )
 
 

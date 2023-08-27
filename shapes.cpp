@@ -1,25 +1,19 @@
 #include "shapes.h"
 #include <glm/glm.hpp>
 
-Vertex vertexShader(const Vertex& vertex, const Uniforms& uniforms, Fragment& outFragment) {
-    
-    // Extract the position from the vertex
-    glm::vec3 position = vertex.position;
-
-    // Apply transformations (model, view, projection) to the vertex
-    glm::vec4 transformedVertex = uniforms.projectionMatrix * uniforms.viewMatrix * uniforms.modelMatrix * glm::vec4(position, 1.0f);
-    
-    // Homogeneous divide
-    glm::vec3 ndcVertex = glm::vec3(transformedVertex) / transformedVertex.w;
-    
-
-    // Apply the viewport transform
-    glm::vec4 screenVertex = uniforms.viewPortMatrix * glm::vec4(ndcVertex, 1.0f);
-
-    return Vertex{
-        glm::vec3(screenVertex ),
-        vertex.color
-    };
+Vertex vertexShader(const Vertex& vertex, const Uniforms& uniforms) {
+    glm::vec4 transformedVertex = uniforms.viewport * uniforms.projection * uniforms.view * uniforms.model * glm::vec4(vertex.position, 1.0f);
+    glm::vec3 vertexRedux;
+    vertexRedux.x = transformedVertex.x / transformedVertex.w;
+    vertexRedux.y = transformedVertex.y / transformedVertex.w;
+    vertexRedux.z = transformedVertex.z / transformedVertex.w;
+    Color fragmentColor(253, 221, 202, 255); 
+    glm::vec3 normal = glm::normalize(glm::mat3(uniforms.model) * vertex.normal);
+    // Create a fragment and assign its attributes
+    Fragment fragment;
+    fragment.position = glm::ivec2(transformedVertex.x, transformedVertex.y);
+    fragment.color = fragmentColor;
+    return Vertex {vertexRedux, normal};
 }
 
 std::vector<std::vector<Vertex>> primitiveAssembly(
@@ -40,7 +34,10 @@ std::vector<std::vector<Vertex>> primitiveAssembly(
 }
 
 
-Fragment fragmentShader(Fragment fragment) {
-  return fragment;
-};
+Color fragmentShader(const Fragment& fragment) {
+    // Example: Assign a constant color to each fragment
+    // You can modify this function to implement more complex shading
+    // based on the fragment's attributes (e.g., depth, interpolated normals, texture coordinates, etc.)
 
+    return fragment.color;
+}

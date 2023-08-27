@@ -70,13 +70,6 @@ build CMakeFiles/MySDLProject.dir/draw.cpp.obj: CXX_COMPILER__MySDLProject_unsca
   OBJECT_DIR = CMakeFiles\MySDLProject.dir
   OBJECT_FILE_DIR = CMakeFiles\MySDLProject.dir
 
-build CMakeFiles/MySDLProject.dir/color.cpp.obj: CXX_COMPILER__MySDLProject_unscanned_Debug C$:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/color.cpp || cmake_object_order_depends_target_MySDLProject
-  DEP_FILE = CMakeFiles\MySDLProject.dir\color.cpp.obj.d
-  FLAGS = -g -std=gnu++17
-  INCLUDES = -IC:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src -IC:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master
-  OBJECT_DIR = CMakeFiles\MySDLProject.dir
-  OBJECT_FILE_DIR = CMakeFiles\MySDLProject.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MySDLProject
@@ -85,7 +78,7 @@ build CMakeFiles/MySDLProject.dir/color.cpp.obj: CXX_COMPILER__MySDLProject_unsc
 #############################################
 # Link the executable MySDLProject.exe
 
-build MySDLProject.exe: CXX_EXECUTABLE_LINKER__MySDLProject_Debug CMakeFiles/MySDLProject.dir/WinMain.cpp.obj CMakeFiles/MySDLProject.dir/shapes.cpp.obj CMakeFiles/MySDLProject.dir/draw.cpp.obj CMakeFiles/MySDLProject.dir/color.cpp.obj
+build MySDLProject.exe: CXX_EXECUTABLE_LINKER__MySDLProject_Debug CMakeFiles/MySDLProject.dir/WinMain.cpp.obj CMakeFiles/MySDLProject.dir/shapes.cpp.obj CMakeFiles/MySDLProject.dir/draw.cpp.obj
   FLAGS = -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

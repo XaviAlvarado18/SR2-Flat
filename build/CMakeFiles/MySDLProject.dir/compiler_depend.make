@@ -20,7 +20,6 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/func_vector_relational.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/qualifier.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/setup.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_float.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_half.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_half.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat2x2.hpp \
@@ -41,8 +40,6 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x3.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x4.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x4.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_quat.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_quat.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec1.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec1.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec2.hpp \
@@ -94,60 +91,34 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_projection.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_transform.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_transform.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_common.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_common.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_double.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_double_precision.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_float.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_float_precision.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_geometric.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_geometric.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_relational.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_relational.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_transform.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_transform.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_trigonometric.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_trigonometric.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_constants.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_constants.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_int_sized.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_uint_sized.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool1.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool1_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool2.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool2_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool3.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool3_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool4.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool4_precision.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double1.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double1_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double2.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double2_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double3.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double3_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double4.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double4_precision.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float1.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float1_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float3.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float3_precision.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float4.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float4_precision.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int1.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int1_sized.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int2.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int2_sized.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int3.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int3_sized.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int4.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int4_sized.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_relational.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_relational.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint1.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint1_sized.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint2.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint2_sized.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint3.hpp \
@@ -159,15 +130,8 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/glm.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/constants.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/constants.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/epsilon.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/epsilon.inl \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/matrix_transform.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/matrix_transform.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/quaternion.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/quaternion.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/type_ptr.hpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/type_ptr.inl \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/vec1.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/integer.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat2x2.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat2x3.hpp \
@@ -335,7 +299,6 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/cstdint \
   C:/msys64/mingw64/include/c++/13.1.0/cstdio \
   C:/msys64/mingw64/include/c++/13.1.0/cstdlib \
-  C:/msys64/mingw64/include/c++/13.1.0/cstring \
   C:/msys64/mingw64/include/c++/13.1.0/ctime \
   C:/msys64/mingw64/include/c++/13.1.0/cwchar \
   C:/msys64/mingw64/include/c++/13.1.0/cwctype \
@@ -1652,8 +1615,6 @@ C:/msys64/mingw64/include/winreg.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/draw.h:
 
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_common.inl:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vec3.hpp:
 
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h:
@@ -1754,32 +1715,6 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/setup.hpp:
 
-C:/msys64/mingw64/include/SDL_misc.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat3x2.hpp:
-
-C:/msys64/mingw64/include/cderr.h:
-
-C:/msys64/mingw64/include/sdkddkver.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tmmintrin.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double2x3_precision.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x3.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double2x2.hpp:
-
-C:/msys64/mingw64/include/SDL2/SDL_keycode.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x2_precision.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_float.hpp:
-
-C:/msys64/mingw64/include/SDL2/SDL_sensor.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2_precision.hpp:
-
 C:/msys64/mingw64/include/SDL_platform.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/stringfwd.h:
@@ -1790,9 +1725,9 @@ C:/msys64/mingw64/include/SDL2/SDL_keyboard.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_half.inl:
 
-C:/msys64/mingw64/include/strings.h:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat2x2.hpp:
+
+C:/msys64/mingw64/include/strings.h:
 
 C:/msys64/mingw64/include/corecrt_stdio_config.h:
 
@@ -1830,15 +1765,15 @@ C:/msys64/mingw64/include/psdk_inc/_xmitfile.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double2x2_precision.hpp:
 
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec1.hpp:
+
+C:/msys64/mingw64/include/string.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmiintrin.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x3_precision.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint2.hpp:
-
-C:/msys64/mingw64/include/string.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec1.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float3_precision.hpp:
 
@@ -1847,10 +1782,6 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec2.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat4x3.hpp:
-
-C:/msys64/mingw64/include/SDL_cpuinfo.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint1.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec1.inl:
 
@@ -1870,9 +1801,11 @@ C:/msys64/mingw64/include/c++/13.1.0/sstream:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat3x3.inl:
 
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double3x3.hpp:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vnniintrin.h:
 
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/quaternion.hpp:
+C:/msys64/mingw64/include/threadpoolapiset.h:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double3x3.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat2x3.hpp:
 
@@ -1892,6 +1825,10 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/msys64/mingw64/include/SDL2/SDL_main.h:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fp16intrin.h:
+
+C:/msys64/mingw64/include/wincon.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x3.inl:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x4.hpp:
@@ -1899,16 +1836,6 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/msys64/mingw64/include/c++/13.1.0/bits/utility.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x4.inl:
-
-C:/msys64/mingw64/include/SDL_keyboard.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_quat.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_quat.inl:
-
-C:/msys64/mingw64/include/sec_api/stdio_s.h:
-
-C:/msys64/mingw64/include/SDL2/SDL_loadso.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/cstddef:
 
@@ -1928,6 +1855,26 @@ C:/msys64/mingw64/include/c++/13.1.0/debug/assertions.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_clip_space.inl:
 
+C:/msys64/mingw64/include/SDL_misc.h:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat3x2.hpp:
+
+C:/msys64/mingw64/include/cderr.h:
+
+C:/msys64/mingw64/include/sdkddkver.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tmmintrin.h:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double2x3_precision.hpp:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x3.hpp:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double2x2.hpp:
+
+C:/msys64/mingw64/include/SDL2/SDL_keycode.h:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x2_precision.hpp:
+
 C:/msys64/mingw64/include/winnetwk.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double3x4.hpp:
@@ -1941,6 +1888,10 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double4x2_precision.hpp:
 
 C:/msys64/mingw64/include/crtdefs.h:
+
+C:/msys64/mingw64/include/stdarg.h:
+
+C:/msys64/mingw64/include/sysinfoapi.h:
 
 C:/msys64/mingw64/include/SDL_timer.h:
 
@@ -1965,6 +1916,10 @@ C:/msys64/mingw64/include/SDL2/SDL_hints.h:
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double4x4_precision.hpp:
 
 C:/msys64/mingw64/include/oleidl.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
+
+C:/msys64/mingw64/include/sys/types.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x4.hpp:
 
@@ -2012,73 +1967,17 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_transform.inl:
 
-C:/msys64/mingw64/include/_mingw_secapi.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/immintrin.h:
-
-C:/msys64/mingw64/include/windef.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_common.hpp:
-
-C:/msys64/mingw64/include/SDL_metal.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_double.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_double_precision.hpp:
-
-C:/msys64/mingw64/include/SDL_version.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_float.hpp:
-
-C:/msys64/mingw64/include/c++/13.1.0/bits/stl_iterator_base_types.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_float_precision.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_geometric.hpp:
-
-C:/msys64/mingw64/include/pshpack1.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_geometric.inl:
-
-C:/msys64/mingw64/include/SDL2/SDL_messagebox.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_relational.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_relational.inl:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_transform.hpp:
-
-C:/msys64/mingw64/include/c++/13.1.0/cctype:
-
-C:/msys64/mingw64/include/rpcasync.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_transform.inl:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_int_sized.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_trigonometric.hpp:
-
-C:/msys64/mingw64/include/SDL_haptic.h:
-
-C:/msys64/mingw64/include/rpcndr.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_trigonometric.inl:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_constants.hpp:
 
 C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_constants.inl:
 
+C:/msys64/mingw64/include/rpcasync.h:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_int_sized.hpp:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/scalar_uint_sized.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool1.hpp:
-
-C:/msys64/mingw64/include/c++/13.1.0/array:
-
-C:/msys64/mingw64/include/begin_code.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool1_precision.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool2.hpp:
 
@@ -2106,20 +2005,6 @@ C:/msys64/mingw64/include/c++/13.1.0/stdlib.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool4_precision.hpp:
 
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double1.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float1_precision.hpp:
-
-C:/msys64/mingw64/include/c++/13.1.0/initializer_list:
-
-C:/msys64/mingw64/include/c++/13.1.0/ext/atomicity.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint1_sized.hpp:
-
-C:/msys64/mingw64/include/stddef.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double1_precision.hpp:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double3_precision.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double2.hpp:
@@ -2128,11 +2013,9 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_double4.hpp:
 
-C:/msys64/mingw64/include/guiddef.h:
+C:/msys64/mingw64/include/c++/13.1.0/tr1/legendre_function.tcc:
 
-C:/msys64/mingw64/include/SDL_error.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float1.hpp:
+C:/msys64/mingw64/include/windows.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2.hpp:
 
@@ -2140,43 +2023,31 @@ C:/msys64/mingw64/include/c++/13.1.0/bits/stl_iterator.h:
 
 C:/msys64/mingw64/include/msxml.h:
 
-C:/msys64/mingw64/include/windows.h:
+C:/msys64/mingw64/include/SDL2/SDL_sensor.h:
 
-C:/msys64/mingw64/include/c++/13.1.0/tr1/legendre_function.tcc:
-
-C:/msys64/mingw64/include/tvout.h:
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2_precision.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float3.hpp:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/allocator.h:
 
+C:/msys64/mingw64/include/tvout.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2vlintrin.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float4.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/quaternion.inl:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float4_precision.hpp:
 
 C:/msys64/mingw64/include/SDL2/SDL_blendmode.h:
 
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int1.hpp:
-
-C:/msys64/mingw64/include/winuser.h:
-
-C:/msys64/mingw64/include/c++/13.1.0/cerrno:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm3dnow.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int1_sized.hpp:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int2.hpp:
 
 C:/msys64/mingw64/include/c++/13.1.0/fstream:
 
-C:/msys64/mingw64/include/utilapiset.h:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int2_sized.hpp:
+
+C:/msys64/mingw64/include/utilapiset.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int3.hpp:
 
@@ -2191,12 +2062,6 @@ C:/msys64/mingw64/include/_mingw_stat64.h:
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int4.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int4_sized.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_relational.hpp:
-
-C:/msys64/mingw64/include/minwindef.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_relational.inl:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint2_sized.hpp:
 
@@ -2217,22 +2082,6 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/msys64/mingw64/include/c++/13.1.0/tr1/hypergeometric.tcc:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/constants.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/epsilon.hpp:
-
-C:/msys64/mingw64/include/ctype.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/epsilon.inl:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/type_ptr.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/type_ptr.inl:
-
-C:/msys64/mingw64/include/SDL2/SDL_log.h:
-
-C:/msys64/mingw64/include/SDL2/SDL_quit.h:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/vec1.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/integer.hpp:
 
@@ -2302,6 +2151,14 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitintrin.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_joystick.h:
 
+C:/msys64/mingw64/include/sec_api/stdio_s.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_loadso.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_log.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_messagebox.h:
+
 C:/msys64/mingw64/include/SDL2/SDL_metal.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_misc.h:
@@ -2321,6 +2178,8 @@ C:/msys64/mingw64/include/SDL2/SDL_pixels.h:
 C:/msys64/mingw64/include/SDL2/SDL_power.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/functional_hash.h:
+
+C:/msys64/mingw64/include/SDL2/SDL_quit.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_rect.h:
 
@@ -2376,6 +2235,12 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmiintrin.h:
 
 C:/msys64/mingw64/include/_mingw_off_t.h:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/immintrin.h:
+
+C:/msys64/mingw64/include/windef.h:
+
+C:/msys64/mingw64/include/_mingw_secapi.h:
+
 C:/msys64/mingw64/include/_timeval.h:
 
 C:/msys64/mingw64/include/apiset.h:
@@ -2385,6 +2250,8 @@ C:/msys64/mingw64/include/apisetcconv.h:
 C:/msys64/mingw64/include/bcrypt.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/exception.h:
+
+C:/msys64/mingw64/include/stralign.h:
 
 C:/msys64/mingw64/include/bemapiset.h:
 
@@ -2396,7 +2263,11 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/raointintrin.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/algorithm:
 
+C:/msys64/mingw64/include/c++/13.1.0/array:
+
 C:/msys64/mingw64/include/c++/13.1.0/backward/binders.h:
+
+C:/msys64/mingw64/include/urlmon.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bit:
 
@@ -2472,6 +2343,8 @@ C:/msys64/mingw64/include/c++/13.1.0/typeinfo:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/localefwd.h:
 
+C:/msys64/mingw64/include/sys/timeb.h:
+
 C:/msys64/mingw64/include/c++/13.1.0/bits/memoryfwd.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h:
@@ -2516,6 +2389,8 @@ C:/msys64/mingw64/include/c++/13.1.0/bits/stl_function.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/stl_iterator_base_funcs.h:
 
+C:/msys64/mingw64/include/c++/13.1.0/bits/stl_iterator_base_types.h:
+
 C:/msys64/mingw64/include/c++/13.1.0/bits/stl_pair.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/stl_tempbuf.h:
@@ -2542,6 +2417,14 @@ C:/msys64/mingw64/include/c++/13.1.0/bits/vector.tcc:
 
 C:/msys64/mingw64/include/c++/13.1.0/cstdio:
 
+C:/msys64/mingw64/include/c++/13.1.0/cctype:
+
+C:/msys64/mingw64/include/winuser.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/cerrno:
+
+C:/msys64/mingw64/include/specstrings.h:
+
 C:/msys64/mingw64/include/c++/13.1.0/climits:
 
 C:/msys64/mingw64/include/commdlg.h:
@@ -2560,10 +2443,6 @@ C:/msys64/mingw64/include/c++/13.1.0/cstdint:
 
 C:/msys64/mingw64/include/c++/13.1.0/cstdlib:
 
-C:/msys64/mingw64/include/heapapi.h:
-
-C:/msys64/mingw64/include/c++/13.1.0/cstring:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/lzcntintrin.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/cwctype:
@@ -2575,6 +2454,10 @@ C:/msys64/mingw64/include/minwinbase.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ia32intrin.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/ext/alloc_traits.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/initializer_list:
+
+C:/msys64/mingw64/include/c++/13.1.0/ext/atomicity.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/ext/string_conversions.h:
 
@@ -2656,6 +2539,8 @@ C:/msys64/mingw64/include/corecrt_wstdlib.h:
 
 C:/msys64/mingw64/include/rpcnterr.h:
 
+C:/msys64/mingw64/include/ctype.h:
+
 C:/msys64/mingw64/include/datetimeapi.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/wmmintrin.h:
@@ -2686,11 +2571,17 @@ C:/msys64/mingw64/include/fileapi.h:
 
 C:/msys64/mingw64/include/intrin.h:
 
+C:/msys64/mingw64/include/wctype.h:
+
 C:/msys64/mingw64/include/fltwinerror.h:
+
+C:/msys64/mingw64/include/guiddef.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
 
 C:/msys64/mingw64/include/handleapi.h:
+
+C:/msys64/mingw64/include/heapapi.h:
 
 C:/msys64/mingw64/include/SDL_endian.h:
 
@@ -2720,6 +2611,8 @@ C:/msys64/mingw64/include/malloc.h:
 
 C:/msys64/mingw64/include/objidl.h:
 
+C:/msys64/mingw64/include/threadpoollegacyapiset.h:
+
 C:/msys64/mingw64/include/mciapi.h:
 
 C:/msys64/mingw64/include/pthread_signal.h:
@@ -2727,6 +2620,8 @@ C:/msys64/mingw64/include/pthread_signal.h:
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.cpp:
 
 C:/msys64/mingw64/include/memoryapi.h:
+
+C:/msys64/mingw64/include/minwindef.h:
 
 C:/msys64/mingw64/include/mmeapi.h:
 
@@ -2753,6 +2648,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/cldemoteintrin.h:
 C:/msys64/mingw64/include/oaidl.h:
 
 C:/msys64/mingw64/include/objidlbase.h:
+
+C:/msys64/mingw64/include/swprintf.inl:
 
 C:/msys64/mingw64/include/ole2.h:
 
@@ -2788,19 +2685,27 @@ C:/msys64/mingw64/include/psdk_inc/_wsadata.h:
 
 C:/msys64/mingw64/include/psdk_inc/intrin-impl.h:
 
+C:/msys64/mingw64/include/stdio.h:
+
+C:/msys64/mingw64/include/pshpack1.h:
+
 C:/msys64/mingw64/include/pshpack2.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pmmintrin.h:
 
 C:/msys64/mingw64/include/pshpack4.h:
 
-C:/msys64/mingw64/include/systemtopologyapi.h:
-
 C:/msys64/mingw64/include/pthread.h:
+
+C:/msys64/mingw64/include/systemtopologyapi.h:
 
 C:/msys64/mingw64/include/realtimeapiset.h:
 
 C:/msys64/mingw64/include/reason.h:
+
+C:/msys64/mingw64/include/SDL_haptic.h:
+
+C:/msys64/mingw64/include/rpcndr.h:
 
 C:/msys64/mingw64/include/rpcnsip.h:
 
@@ -2808,51 +2713,31 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bwintrin.h:
 
 C:/msys64/mingw64/include/sal.h:
 
+C:/msys64/mingw64/include/winapifamily.h:
+
 C:/msys64/mingw64/include/sec_api/wchar_s.h:
+
+C:/msys64/mingw64/include/timeapi.h:
 
 C:/msys64/mingw64/include/setjmp.h:
 
-C:/msys64/mingw64/include/wincrypt.h:
-
 C:/msys64/mingw64/include/shellapi.h:
 
-C:/msys64/mingw64/include/specstrings.h:
+C:/msys64/mingw64/include/wincrypt.h:
 
-C:/msys64/mingw64/include/sysinfoapi.h:
-
-C:/msys64/mingw64/include/stdarg.h:
+C:/msys64/mingw64/include/stddef.h:
 
 C:/msys64/mingw64/include/stdint.h:
-
-C:/msys64/mingw64/include/stdio.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/clflushoptintrin.h:
 
 C:/msys64/mingw64/include/stdlib.h:
 
-C:/msys64/mingw64/include/stralign.h:
-
 C:/msys64/mingw64/include/stringapiset.h:
-
-C:/msys64/mingw64/include/swprintf.inl:
 
 C:/msys64/mingw64/include/synchapi.h:
 
-C:/msys64/mingw64/include/sys/timeb.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
-
-C:/msys64/mingw64/include/sys/types.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vnniintrin.h:
-
-C:/msys64/mingw64/include/threadpoolapiset.h:
-
-C:/msys64/mingw64/include/threadpoollegacyapiset.h:
-
 C:/msys64/mingw64/include/time.h:
-
-C:/msys64/mingw64/include/timeapi.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
 
@@ -2862,23 +2747,13 @@ C:/msys64/mingw64/include/unknwn.h:
 
 C:/msys64/mingw64/include/unknwnbase.h:
 
-C:/msys64/mingw64/include/urlmon.h:
-
 C:/msys64/mingw64/include/vadefs.h:
 
 C:/msys64/mingw64/include/virtdisk.h:
 
 C:/msys64/mingw64/include/wchar.h:
 
-C:/msys64/mingw64/include/wctype.h:
-
-C:/msys64/mingw64/include/winapifamily.h:
-
 C:/msys64/mingw64/include/winbase.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fp16intrin.h:
-
-C:/msys64/mingw64/include/wincon.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/serializeintrin.h:
 
@@ -2990,6 +2865,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/hresetintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm3dnow.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mmintrin.h:
@@ -3048,6 +2925,10 @@ C:/msys64/mingw64/include/SDL_blendmode.h:
 
 C:/msys64/mingw64/include/SDL_config_windows.h:
 
+C:/msys64/mingw64/include/SDL_cpuinfo.h:
+
+C:/msys64/mingw64/include/SDL_error.h:
+
 C:/msys64/mingw64/include/SDL_events.h:
 
 C:/msys64/mingw64/include/SDL_filesystem.h:
@@ -3058,9 +2939,13 @@ C:/msys64/mingw64/include/SDL_gesture.h:
 
 C:/msys64/mingw64/include/SDL_guid.h:
 
+C:/msys64/mingw64/include/SDL_keyboard.h:
+
 C:/msys64/mingw64/include/SDL_loadso.h:
 
 C:/msys64/mingw64/include/SDL_messagebox.h:
+
+C:/msys64/mingw64/include/SDL_metal.h:
 
 C:/msys64/mingw64/include/SDL_mouse.h:
 
@@ -3083,6 +2968,10 @@ C:/msys64/mingw64/include/SDL_shape.h:
 C:/msys64/mingw64/include/SDL_stdinc.h:
 
 C:/msys64/mingw64/include/SDL_thread.h:
+
+C:/msys64/mingw64/include/SDL_version.h:
+
+C:/msys64/mingw64/include/begin_code.h:
 
 C:/msys64/mingw64/include/close_code.h:
 
